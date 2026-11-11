@@ -1,0 +1,16 @@
+[project]
+name = "traductor-offline"
+version = "0.1.0"
+description = "Traductor español-inglés 100% offline hecho con Flet"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["flet==1.1.2"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "playwright>=1.40"]
+
+[tool.flet]
+build_number = 1
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,1669 @@
+{
+  "en_es": {
+    "the": [
+      "el",
+      "la"
+    ],
+    "a": [
+      "un",
+      "una"
+    ],
+    "an": [
+      "un",
+      "una"
+    ],
+    "and": [
+      "y"
+    ],
+    "or": [
+      "o"
+    ],
+    "but": [
+      "pero"
+    ],
+    "because": [
+      "porque"
+    ],
+    "of": [
+      "de"
+    ],
+    "to": [
+      "a"
+    ],
+    "in": [
+      "en"
+    ],
+    "on": [
+      "en",
+      "sobre"
+    ],
+    "at": [
+      "en"
+    ],
+    "with": [
+      "con"
+    ],
+    "without": [
+      "sin"
+    ],
+    "for": [
+      "para",
+      "por"
+    ],
+    "from": [
+      "de",
+      "desde"
+    ],
+    "by": [
+      "por"
+    ],
+    "about": [
+      "sobre",
+      "acerca de"
+    ],
+    "as": [
+      "como"
+    ],
+    "than": [
+      "que"
+    ],
+    "that": [
+      "que",
+      "eso"
+    ],
+    "this": [
+      "este",
+      "esta"
+    ],
+    "these": [
+      "estos",
+      "estas"
+    ],
+    "those": [
+      "esos",
+      "esas"
+    ],
+    "i": [
+      "yo"
+    ],
+    "you": [
+      "tú",
+      "usted"
+    ],
+    "he": [
+      "él"
+    ],
+    "she": [
+      "ella"
+    ],
+    "we": [
+      "nosotros"
+    ],
+    "they": [
+      "ellos",
+      "ellas"
+    ],
+    "my": [
+      "mi"
+    ],
+    "your": [
+      "tu"
+    ],
+    "his": [
+      "su"
+    ],
+    "her": [
+      "su"
+    ],
+    "our": [
+      "nuestro"
+    ],
+    "their": [
+      "su"
+    ],
+    "me": [
+      "me"
+    ],
+    "him": [
+      "lo",
+      "le"
+    ],
+    "us": [
+      "nos"
+    ],
+    "them": [
+      "los",
+      "las"
+    ],
+    "is": [
+      "es",
+      "está"
+    ],
+    "are": [
+      "son",
+      "están"
+    ],
+    "was": [
+      "era",
+      "estaba",
+      "fue"
+    ],
+    "were": [
+      "eran",
+      "estaban"
+    ],
+    "be": [
+      "ser",
+      "estar"
+    ],
+    "am": [
+      "soy",
+      "estoy"
+    ],
+    "have": [
+      "tener",
+      "haber"
+    ],
+    "has": [
+      "tiene"
+    ],
+    "had": [
+      "tenía"
+    ],
+    "do": [
+      "hacer"
+    ],
+    "does": [
+      "hace"
+    ],
+    "did": [
+      "hizo"
+    ],
+    "can": [
+      "poder"
+    ],
+    "could": [
+      "podría"
+    ],
+    "not": [
+      "no"
+    ],
+    "no": [
+      "no"
+    ],
+    "yes": [
+      "sí"
+    ],
+    "very": [
+      "muy"
+    ],
+    "more": [
+      "más"
+    ],
+    "most": [
+      "más"
+    ],
+    "less": [
+      "menos"
+    ],
+    "much": [
+      "mucho"
+    ],
+    "many": [
+      "muchos"
+    ],
+    "some": [
+      "algunos"
+    ],
+    "any": [
+      "alguno"
+    ],
+    "all": [
+      "todo"
+    ],
+    "every": [
+      "cada"
+    ],
+    "each": [
+      "cada"
+    ],
+    "other": [
+      "otro"
+    ],
+    "another": [
+      "otro"
+    ],
+    "same": [
+      "mismo"
+    ],
+    "new": [
+      "nuevo"
+    ],
+    "old": [
+      "viejo",
+      "antiguo"
+    ],
+    "good": [
+      "bueno"
+    ],
+    "bad": [
+      "malo"
+    ],
+    "big": [
+      "grande"
+    ],
+    "small": [
+      "pequeño"
+    ],
+    "long": [
+      "largo"
+    ],
+    "short": [
+      "corto"
+    ],
+    "hot": [
+      "caliente"
+    ],
+    "cold": [
+      "frío"
+    ],
+    "easy": [
+      "fácil"
+    ],
+    "difficult": [
+      "difícil"
+    ],
+    "hard": [
+      "difícil",
+      "duro"
+    ],
+    "fast": [
+      "rápido"
+    ],
+    "slow": [
+      "lento"
+    ],
+    "happy": [
+      "feliz"
+    ],
+    "sad": [
+      "triste"
+    ],
+    "beautiful": [
+      "hermoso",
+      "bello"
+    ],
+    "ugly": [
+      "feo"
+    ],
+    "young": [
+      "joven"
+    ],
+    "strong": [
+      "fuerte"
+    ],
+    "weak": [
+      "débil"
+    ],
+    "rich": [
+      "rico"
+    ],
+    "poor": [
+      "pobre"
+    ],
+    "right": [
+      "derecha",
+      "correcto"
+    ],
+    "left": [
+      "izquierda"
+    ],
+    "up": [
+      "arriba"
+    ],
+    "down": [
+      "abajo"
+    ],
+    "here": [
+      "aquí"
+    ],
+    "there": [
+      "allí"
+    ],
+    "now": [
+      "ahora"
+    ],
+    "today": [
+      "hoy"
+    ],
+    "tomorrow": [
+      "mañana"
+    ],
+    "yesterday": [
+      "ayer"
+    ],
+    "always": [
+      "siempre"
+    ],
+    "never": [
+      "nunca"
+    ],
+    "sometimes": [
+      "a veces"
+    ],
+    "often": [
+      "a menudo"
+    ],
+    "again": [
+      "otra vez"
+    ],
+    "water": [
+      "agua"
+    ],
+    "food": [
+      "comida"
+    ],
+    "house": [
+      "casa"
+    ],
+    "home": [
+      "casa",
+      "hogar"
+    ],
+    "car": [
+      "coche",
+      "carro"
+    ],
+    "book": [
+      "libro"
+    ],
+    "friend": [
+      "amigo"
+    ],
+    "family": [
+      "familia"
+    ],
+    "work": [
+      "trabajo",
+      "trabajar"
+    ],
+    "school": [
+      "escuela"
+    ],
+    "money": [
+      "dinero"
+    ],
+    "time": [
+      "tiempo",
+      "vez"
+    ],
+    "day": [
+      "día"
+    ],
+    "night": [
+      "noche"
+    ],
+    "morning": [
+      "mañana"
+    ],
+    "afternoon": [
+      "tarde"
+    ],
+    "week": [
+      "semana"
+    ],
+    "month": [
+      "mes"
+    ],
+    "year": [
+      "año"
+    ],
+    "man": [
+      "hombre"
+    ],
+    "woman": [
+      "mujer"
+    ],
+    "child": [
+      "niño"
+    ],
+    "people": [
+      "gente",
+      "personas"
+    ],
+    "dog": [
+      "perro"
+    ],
+    "cat": [
+      "gato"
+    ],
+    "city": [
+      "ciudad"
+    ],
+    "country": [
+      "país"
+    ],
+    "world": [
+      "mundo"
+    ],
+    "name": [
+      "nombre"
+    ],
+    "question": [
+      "pregunta"
+    ],
+    "answer": [
+      "respuesta"
+    ],
+    "problem": [
+      "problema"
+    ],
+    "help": [
+      "ayuda",
+      "ayudar"
+    ],
+    "love": [
+      "amor",
+      "amar"
+    ],
+    "like": [
+      "gustar",
+      "como"
+    ],
+    "want": [
+      "querer"
+    ],
+    "need": [
+      "necesitar"
+    ],
+    "know": [
+      "saber",
+      "conocer"
+    ],
+    "think": [
+      "pensar"
+    ],
+    "see": [
+      "ver"
+    ],
+    "look": [
+      "mirar"
+    ],
+    "say": [
+      "decir"
+    ],
+    "tell": [
+      "decir"
+    ],
+    "speak": [
+      "hablar"
+    ],
+    "talk": [
+      "hablar"
+    ],
+    "eat": [
+      "comer"
+    ],
+    "drink": [
+      "beber"
+    ],
+    "sleep": [
+      "dormir"
+    ],
+    "run": [
+      "correr"
+    ],
+    "walk": [
+      "caminar"
+    ],
+    "buy": [
+      "comprar"
+    ],
+    "sell": [
+      "vender"
+    ],
+    "open": [
+      "abrir"
+    ],
+    "close": [
+      "cerrar"
+    ],
+    "read": [
+      "leer"
+    ],
+    "write": [
+      "escribir"
+    ],
+    "learn": [
+      "aprender"
+    ],
+    "understand": [
+      "entender",
+      "comprender"
+    ],
+    "wait": [
+      "esperar"
+    ],
+    "find": [
+      "encontrar"
+    ],
+    "give": [
+      "dar"
+    ],
+    "take": [
+      "tomar",
+      "llevar"
+    ],
+    "make": [
+      "hacer"
+    ],
+    "get": [
+      "conseguir",
+      "obtener"
+    ],
+    "go": [
+      "ir"
+    ],
+    "come": [
+      "venir"
+    ],
+    "put": [
+      "poner"
+    ],
+    "call": [
+      "llamar"
+    ],
+    "thank you": [
+      "gracias"
+    ],
+    "please": [
+      "por favor"
+    ],
+    "hello": [
+      "hola"
+    ],
+    "goodbye": [
+      "adiós"
+    ],
+    "good morning": [
+      "buenos días"
+    ],
+    "good night": [
+      "buenas noches"
+    ],
+    "good afternoon": [
+      "buenas tardes"
+    ],
+    "excuse me": [
+      "disculpe"
+    ],
+    "i'm sorry": [
+      "lo siento"
+    ],
+    "how are you": [
+      "cómo estás"
+    ],
+    "what is your name": [
+      "cómo te llamas"
+    ],
+    "my name is": [
+      "me llamo"
+    ],
+    "i don't understand": [
+      "no entiendo"
+    ],
+    "i don't know": [
+      "no sé"
+    ],
+    "where is": [
+      "dónde está"
+    ],
+    "how much": [
+      "cuánto"
+    ],
+    "i love you": [
+      "te quiero"
+    ],
+    "see you later": [
+      "hasta luego"
+    ],
+    "reading": [
+      "leyendo",
+      "leer"
+    ],
+    "running": [
+      "corriendo",
+      "correr"
+    ],
+    "playing": [
+      "jugando",
+      "jugar"
+    ],
+    "eating": [
+      "comiendo",
+      "comer"
+    ],
+    "sleeping": [
+      "durmiendo",
+      "dormir"
+    ],
+    "going": [
+      "yendo",
+      "ir"
+    ],
+    "coming": [
+      "viniendo",
+      "venir"
+    ],
+    "writing": [
+      "escribiendo",
+      "escribir"
+    ],
+    "speaking": [
+      "hablando",
+      "hablar"
+    ],
+    "working": [
+      "trabajando",
+      "trabajar"
+    ],
+    "waiting": [
+      "esperando",
+      "esperar"
+    ],
+    "looking": [
+      "mirando",
+      "mirar"
+    ],
+    "learning": [
+      "aprendiendo",
+      "aprender"
+    ],
+    "living": [
+      "viviendo",
+      "vivir"
+    ],
+    "thinking": [
+      "pensando",
+      "pensar"
+    ],
+    "trying": [
+      "intentando",
+      "intentar"
+    ],
+    "swimming": [
+      "nadando",
+      "nadar"
+    ],
+    "driving": [
+      "conduciendo",
+      "conducir"
+    ],
+    "station": [
+      "estación"
+    ],
+    "train": [
+      "tren"
+    ],
+    "bus": [
+      "autobús"
+    ],
+    "airport": [
+      "aeropuerto"
+    ],
+    "market": [
+      "mercado"
+    ],
+    "park": [
+      "parque"
+    ],
+    "apple": [
+      "manzana"
+    ],
+    "street": [
+      "calle"
+    ],
+    "door": [
+      "puerta"
+    ],
+    "window": [
+      "ventana"
+    ],
+    "table": [
+      "mesa"
+    ],
+    "chair": [
+      "silla"
+    ],
+    "computer": [
+      "computadora",
+      "ordenador"
+    ],
+    "phone": [
+      "teléfono"
+    ],
+    "teacher": [
+      "profesor",
+      "maestra"
+    ],
+    "student": [
+      "estudiante"
+    ],
+    "doctor": [
+      "médico"
+    ],
+    "hospital": [
+      "hospital"
+    ],
+    "beach": [
+      "playa"
+    ],
+    "mountain": [
+      "montaña"
+    ],
+    "river": [
+      "río"
+    ],
+    "tree": [
+      "árbol"
+    ],
+    "flower": [
+      "flor"
+    ],
+    "bird": [
+      "pájaro"
+    ],
+    "fish": [
+      "pez",
+      "pescado"
+    ],
+    "milk": [
+      "leche"
+    ],
+    "bread": [
+      "pan"
+    ],
+    "coffee": [
+      "café"
+    ],
+    "tea": [
+      "té"
+    ],
+    "egg": [
+      "huevo"
+    ],
+    "rice": [
+      "arroz"
+    ],
+    "meat": [
+      "carne"
+    ],
+    "fruit": [
+      "fruta"
+    ],
+    "vegetable": [
+      "verdura"
+    ],
+    "breakfast": [
+      "desayuno"
+    ],
+    "lunch": [
+      "almuerzo"
+    ],
+    "dinner": [
+      "cena"
+    ],
+    "weather": [
+      "tiempo",
+      "clima"
+    ],
+    "rain": [
+      "lluvia"
+    ],
+    "snow": [
+      "nieve"
+    ],
+    "sun": [
+      "sol"
+    ],
+    "moon": [
+      "luna"
+    ],
+    "star": [
+      "estrella"
+    ],
+    "sea": [
+      "mar"
+    ],
+    "sky": [
+      "cielo"
+    ],
+    "fire": [
+      "fuego"
+    ],
+    "heart": [
+      "corazón"
+    ],
+    "head": [
+      "cabeza"
+    ],
+    "hand": [
+      "mano"
+    ],
+    "eye": [
+      "ojo"
+    ],
+    "face": [
+      "cara"
+    ],
+    "body": [
+      "cuerpo"
+    ],
+    "clothes": [
+      "ropa"
+    ],
+    "shoes": [
+      "zapatos"
+    ],
+    "shoe": [
+      "zapato"
+    ],
+    "color": [
+      "color"
+    ],
+    "red": [
+      "rojo"
+    ],
+    "blue": [
+      "azul"
+    ],
+    "green": [
+      "verde"
+    ],
+    "yellow": [
+      "amarillo"
+    ],
+    "black": [
+      "negro"
+    ],
+    "white": [
+      "blanco"
+    ],
+    "orange": [
+      "naranja"
+    ],
+    "purple": [
+      "morado"
+    ],
+    "brown": [
+      "marrón"
+    ],
+    "gray": [
+      "gris"
+    ],
+    "pink": [
+      "rosa"
+    ],
+    "nice": [
+      "agradable",
+      "bonito"
+    ],
+    "important": [
+      "importante"
+    ],
+    "interesting": [
+      "interesante"
+    ],
+    "funny": [
+      "divertido"
+    ],
+    "angry": [
+      "enojado"
+    ],
+    "tired": [
+      "cansado"
+    ],
+    "hungry": [
+      "hambriento"
+    ],
+    "thirsty": [
+      "sediento"
+    ],
+    "sick": [
+      "enfermo"
+    ],
+    "healthy": [
+      "sano"
+    ],
+    "busy": [
+      "ocupado"
+    ],
+    "ready": [
+      "listo"
+    ],
+    "clean": [
+      "limpio"
+    ],
+    "dirty": [
+      "sucio"
+    ],
+    "expensive": [
+      "caro"
+    ],
+    "cheap": [
+      "barato"
+    ],
+    "early": [
+      "temprano"
+    ],
+    "late": [
+      "tarde"
+    ],
+    "near": [
+      "cerca"
+    ],
+    "far": [
+      "lejos"
+    ],
+    "inside": [
+      "dentro"
+    ],
+    "outside": [
+      "fuera"
+    ],
+    "under": [
+      "debajo"
+    ],
+    "between": [
+      "entre"
+    ],
+    "during": [
+      "durante"
+    ],
+    "after": [
+      "después"
+    ],
+    "before": [
+      "antes"
+    ],
+    "while": [
+      "mientras"
+    ],
+    "until": [
+      "hasta"
+    ],
+    "if": [
+      "si"
+    ],
+    "when": [
+      "cuando"
+    ],
+    "where": [
+      "dónde"
+    ],
+    "why": [
+      "por qué"
+    ],
+    "how": [
+      "cómo"
+    ],
+    "what": [
+      "qué"
+    ],
+    "who": [
+      "quién"
+    ],
+    "which": [
+      "cuál"
+    ],
+    "music": [
+      "música"
+    ],
+    "movie": [
+      "película"
+    ],
+    "game": [
+      "juego"
+    ],
+    "story": [
+      "historia",
+      "cuento"
+    ],
+    "word": [
+      "palabra"
+    ],
+    "language": [
+      "idioma",
+      "lengua"
+    ],
+    "spanish": [
+      "español"
+    ],
+    "english": [
+      "inglés"
+    ]
+  },
+  "es_en": {
+    "el": [
+      "the"
+    ],
+    "la": [
+      "the"
+    ],
+    "los": [
+      "the"
+    ],
+    "las": [
+      "the"
+    ],
+    "un": [
+      "a"
+    ],
+    "una": [
+      "a"
+    ],
+    "y": [
+      "and"
+    ],
+    "o": [
+      "or"
+    ],
+    "pero": [
+      "but"
+    ],
+    "porque": [
+      "because"
+    ],
+    "de": [
+      "of"
+    ],
+    "del": [
+      "of the"
+    ],
+    "al": [
+      "to the"
+    ],
+    "a": [
+      "to"
+    ],
+    "en": [
+      "in"
+    ],
+    "con": [
+      "with"
+    ],
+    "sin": [
+      "without"
+    ],
+    "para": [
+      "for"
+    ],
+    "por": [
+      "for",
+      "by"
+    ],
+    "desde": [
+      "from"
+    ],
+    "sobre": [
+      "on",
+      "about"
+    ],
+    "como": [
+      "like",
+      "as"
+    ],
+    "que": [
+      "that"
+    ],
+    "esto": [
+      "this"
+    ],
+    "este": [
+      "this"
+    ],
+    "esta": [
+      "this"
+    ],
+    "estos": [
+      "these"
+    ],
+    "estas": [
+      "these"
+    ],
+    "eso": [
+      "that"
+    ],
+    "esa": [
+      "that"
+    ],
+    "esos": [
+      "those"
+    ],
+    "esas": [
+      "those"
+    ],
+    "yo": [
+      "i"
+    ],
+    "tú": [
+      "you"
+    ],
+    "usted": [
+      "you"
+    ],
+    "él": [
+      "he"
+    ],
+    "ella": [
+      "she"
+    ],
+    "nosotros": [
+      "we"
+    ],
+    "ellos": [
+      "they"
+    ],
+    "ellas": [
+      "they"
+    ],
+    "mi": [
+      "my"
+    ],
+    "tu": [
+      "your"
+    ],
+    "su": [
+      "his",
+      "her"
+    ],
+    "nuestro": [
+      "our"
+    ],
+    "me": [
+      "me"
+    ],
+    "te": [
+      "you"
+    ],
+    "nos": [
+      "us"
+    ],
+    "es": [
+      "is"
+    ],
+    "son": [
+      "are"
+    ],
+    "está": [
+      "is"
+    ],
+    "están": [
+      "are"
+    ],
+    "era": [
+      "was"
+    ],
+    "soy": [
+      "am"
+    ],
+    "estoy": [
+      "am"
+    ],
+    "ser": [
+      "be"
+    ],
+    "estar": [
+      "be"
+    ],
+    "tener": [
+      "have"
+    ],
+    "haber": [
+      "have"
+    ],
+    "hacer": [
+      "do",
+      "make"
+    ],
+    "poder": [
+      "can"
+    ],
+    "no": [
+      "not"
+    ],
+    "sí": [
+      "yes"
+    ],
+    "muy": [
+      "very"
+    ],
+    "más": [
+      "more"
+    ],
+    "menos": [
+      "less"
+    ],
+    "mucho": [
+      "much"
+    ],
+    "muchos": [
+      "many"
+    ],
+    "algunos": [
+      "some"
+    ],
+    "todo": [
+      "all",
+      "everything"
+    ],
+    "cada": [
+      "every"
+    ],
+    "otro": [
+      "other"
+    ],
+    "mismo": [
+      "same"
+    ],
+    "nuevo": [
+      "new"
+    ],
+    "viejo": [
+      "old"
+    ],
+    "bueno": [
+      "good"
+    ],
+    "malo": [
+      "bad"
+    ],
+    "grande": [
+      "big"
+    ],
+    "pequeño": [
+      "small"
+    ],
+    "largo": [
+      "long"
+    ],
+    "corto": [
+      "short"
+    ],
+    "caliente": [
+      "hot"
+    ],
+    "frío": [
+      "cold"
+    ],
+    "fácil": [
+      "easy"
+    ],
+    "difícil": [
+      "difficult"
+    ],
+    "duro": [
+      "hard"
+    ],
+    "rápido": [
+      "fast"
+    ],
+    "lento": [
+      "slow"
+    ],
+    "feliz": [
+      "happy"
+    ],
+    "triste": [
+      "sad"
+    ],
+    "hermoso": [
+      "beautiful"
+    ],
+    "feo": [
+      "ugly"
+    ],
+    "joven": [
+      "young"
+    ],
+    "fuerte": [
+      "strong"
+    ],
+    "débil": [
+      "weak"
+    ],
+    "rico": [
+      "rich"
+    ],
+    "pobre": [
+      "poor"
+    ],
+    "derecha": [
+      "right"
+    ],
+    "izquierda": [
+      "left"
+    ],
+    "arriba": [
+      "up"
+    ],
+    "abajo": [
+      "down"
+    ],
+    "aquí": [
+      "here"
+    ],
+    "allí": [
+      "there"
+    ],
+    "ahora": [
+      "now"
+    ],
+    "hoy": [
+      "today"
+    ],
+    "mañana": [
+      "tomorrow",
+      "morning"
+    ],
+    "ayer": [
+      "yesterday"
+    ],
+    "siempre": [
+      "always"
+    ],
+    "nunca": [
+      "never"
+    ],
+    "a veces": [
+      "sometimes"
+    ],
+    "otra vez": [
+      "again"
+    ],
+    "agua": [
+      "water"
+    ],
+    "comida": [
+      "food"
+    ],
+    "casa": [
+      "house",
+      "home"
+    ],
+    "hogar": [
+      "home"
+    ],
+    "coche": [
+      "car"
+    ],
+    "carro": [
+      "car"
+    ],
+    "libro": [
+      "book"
+    ],
+    "amigo": [
+      "friend"
+    ],
+    "familia": [
+      "family"
+    ],
+    "trabajo": [
+      "work"
+    ],
+    "escuela": [
+      "school"
+    ],
+    "dinero": [
+      "money"
+    ],
+    "tiempo": [
+      "time"
+    ],
+    "vez": [
+      "time"
+    ],
+    "día": [
+      "day"
+    ],
+    "noche": [
+      "night"
+    ],
+    "tarde": [
+      "afternoon",
+      "late"
+    ],
+    "semana": [
+      "week"
+    ],
+    "mes": [
+      "month"
+    ],
+    "año": [
+      "year"
+    ],
+    "hombre": [
+      "man"
+    ],
+    "mujer": [
+      "woman"
+    ],
+    "niño": [
+      "child"
+    ],
+    "gente": [
+      "people"
+    ],
+    "personas": [
+      "people"
+    ],
+    "perro": [
+      "dog"
+    ],
+    "gato": [
+      "cat"
+    ],
+    "ciudad": [
+      "city"
+    ],
+    "país": [
+      "country"
+    ],
+    "mundo": [
+      "world"
+    ],
+    "nombre": [
+      "name"
+    ],
+    "pregunta": [
+      "question"
+    ],
+    "respuesta": [
+      "answer"
+    ],
+    "problema": [
+      "problem"
+    ],
+    "ayuda": [
+      "help"
+    ],
+    "amor": [
+      "love"
+    ],
+    "querer": [
+      "want",
+      "love"
+    ],
+    "necesitar": [
+      "need"
+    ],
+    "saber": [
+      "know"
+    ],
+    "conocer": [
+      "know"
+    ],
+    "pensar": [
+      "think"
+    ],
+    "ver": [
+      "see"
+    ],
+    "mirar": [
+      "look"
+    ],
+    "decir": [
+      "say"
+    ],
+    "hablar": [
+      "speak",
+      "talk"
+    ],
+    "comer": [
+      "eat"
+    ],
+    "beber": [
+      "drink"
+    ],
+    "dormir": [
+      "sleep"
+    ],
+    "correr": [
+      "run"
+    ],
+    "caminar": [
+      "walk"
+    ],
+    "comprar": [
+      "buy"
+    ],
+    "vender": [
+      "sell"
+    ],
+    "abrir": [
+      "open"
+    ],
+    "cerrar": [
+      "close"
+    ],
+    "leer": [
+      "read"
+    ],
+    "escribir": [
+      "write"
+    ],
+    "aprender": [
+      "learn"
+    ],
+    "entender": [
+      "understand"
+    ],
+    "esperar": [
+      "wait"
+    ],
+    "encontrar": [
+      "find"
+    ],
+    "dar": [
+      "give"
+    ],
+    "tomar": [
+      "take"
+    ],
+    "llevar": [
+      "carry",
+      "wear"
+    ],
+    "conseguir": [
+      "get"
+    ],
+    "ir": [
+      "go"
+    ],
+    "venir": [
+      "come"
+    ],
+    "poner": [
+      "put"
+    ],
+    "llamar": [
+      "call"
+    ],
+    "gracias": [
+      "thank you"
+    ],
+    "por favor": [
+      "please"
+    ],
+    "hola": [
+      "hello"
+    ],
+    "adiós": [
+      "goodbye"
+    ],
+    "buenos días": [
+      "good morning"
+    ],
+    "buenas noches": [
+      "good night"
+    ],
+    "buenas tardes": [
+      "good afternoon"
+    ],
+    "disculpe": [
+      "excuse me"
+    ],
+    "lo siento": [
+      "i'm sorry"
+    ],
+    "cómo estás": [
+      "how are you"
+    ],
+    "me llamo": [
+      "my name is"
+    ],
+    "no entiendo": [
+      "i don't understand"
+    ],
+    "no sé": [
+      "i don't know"
+    ],
+    "dónde está": [
+      "where is"
+    ],
+    "cuánto": [
+      "how much"
+    ],
+    "te quiero": [
+      "i love you"
+    ],
+    "hasta luego": [
+      "see you later"
+    ],
+    "estación": [
+      "station"
+    ],
+    "tren": [
+      "train"
+    ],
+    "leyendo": [
+      "reading"
+    ],
+    "corriendo": [
+      "running"
+    ],
+    "jugando": [
+      "playing"
+    ],
+    "comiendo": [
+      "eating"
+    ],
+    "zapatos": [
+      "shoes"
+    ],
+    "zapato": [
+      "shoe"
+    ]
+  }
+}

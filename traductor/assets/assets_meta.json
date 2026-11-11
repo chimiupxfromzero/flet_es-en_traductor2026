@@ -1,0 +1,27 @@
+{
+  "version": "1",
+  "sources": [
+    {
+      "name": "FreeDict+WikDict English-Spanish (2025.11.23)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://freedict.org/"
+    },
+    {
+      "name": "Tatoeba spa-eng sentence pairs",
+      "license": "CC BY 2.0 FR",
+      "url": "https://tatoeba.org/"
+    }
+  ],
+  "counts": {
+    "lexicon_en_es": 52608,
+    "lexicon_es_en": 76506,
+    "phrases_es_en": 120000,
+    "phrases_en_es": 120000,
+    "uncompressed_bytes": {
+      "lexicon_en_es": 2189029,
+      "lexicon_es_en": 2589757,
+      "phrases_es_en": 6289164,
+      "phrases_en_es": 6899458
+    }
+  }
+}
